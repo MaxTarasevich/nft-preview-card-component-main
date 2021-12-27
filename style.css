@@ -1,0 +1,16 @@
+:root{
+    --Soft-blue:hsl(215, 51%, 70%);
+    --Cyan: hsl(178, 100%, 50%);
+    --Main-BG: hsl(217, 54%, 11%);
+    --Card-BG: hsl(216, 50%, 16%);
+    --Line: hsl(215, 32%, 27%);
+    --White: hsl(0, 0%, 100%);
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--Main-BG);
+}
