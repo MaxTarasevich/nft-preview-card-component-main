@@ -29,7 +29,16 @@ img{
     padding: 23px;
     background-color: var(--Card-BG);
     border-radius: 10px;
-   /* box-shadow: 10px -10px var(--Card-BG), -10px 10px var(--Card-BG);*/
+    box-shadow: 10px 10px 15px 5px hsl(217, 54%, 9%), 
+                -10px 10px 15px 5px hsl(217, 54%, 9%),
+                20px 10px 30px 5px hsl(217, 54%, 13%), 
+                -20px 10px 30px 5px hsl(217, 54%, 13%);
+}
+
+@media (max-width:400px) {
+    .card{
+        width: 300px;
+}
 }
 
 .card-image{
