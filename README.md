@@ -35,8 +35,8 @@ Screenshot of my solution:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://maxtarasevich.github.io/nft-preview-card-component-main/)
+- Solution URL: [solution here](https://your-solution-url.com)
+- Live Site URL: [live site here](https://maxtarasevich.github.io/nft-preview-card-component-main/)
 
 ## My process
 
