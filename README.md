@@ -53,5 +53,4 @@ When styling, I used the before, after pseudo-elements to create the hover effec
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Max Tarasevich](https://www.frontendmentor.io/profile/MaxTarasevich)
